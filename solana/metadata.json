@@ -2,6 +2,7 @@
   "name": "TNT4",
   "symbol": "TNT4",
   "description": "TNT4 is the incentive token of the Titan Network's Galileo testnet, rewarding contributors who provide bandwidth resources for commercial use.",
+  "image": "https://raw.githubusercontent.com/Titannet-dao/token-registry/master/solana/images/tnt4.png",
   "attributes": [
     {
       "trait_type": "Item",
