@@ -1,0 +1,11 @@
+{
+  "name": "ABC",
+  "symbol": "ABC",
+  "description": "ABC is test token",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
